@@ -44,5 +44,5 @@ This github is my attempt to figure some of it and share my knowledge
 
 
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzafarooq&show_icons=true&theme=radical)
+![Dileep's github stats](https://github-readme-stats.vercel.app/api?username=dileep009&show_icons=true&theme=radical)
 
